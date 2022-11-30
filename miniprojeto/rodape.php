@@ -26,7 +26,7 @@
 
 </style>
 <footer>
-    <p class = "txt">© Copyright 2021-2022 Eduardo Fernandes e Participações S.A
+    <p class = "txt">© Copyright 2022-2023 Eduardo Fernandes e Participações S.A
     </p>
     <p class = "txt1"> Todas as estatisticas e informações foram retiradas de sofascore.com
     </p>

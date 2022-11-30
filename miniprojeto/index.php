@@ -1,4 +1,4 @@
-<title>ESTATISTICAS BR22</title>
+<title>STATS BR22</title>
 <?php
 
     include_once("topo.php");

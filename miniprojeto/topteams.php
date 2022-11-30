@@ -52,17 +52,17 @@
             <tr>
                 <td><img src="https://logodetimes.com/times/palmeiras/logo-palmeiras-256.png" height="70px"/></td>
                 <td>Palmeiras</td>
-                <td>44</td>
+                <td>66</td>
             </tr>
             <tr>
-                <td><img src="https://logodetimes.com/times/internacional/logo-internacional-256.png" height="70px" /></td>
-                <td>Internacional</td>
-                <td>43</td>
+                <td><img src="https://logodetimes.com/times/fluminense/logo-fluminense-256.png" height="70px" /></td>
+                <td>Fluminense</td>
+                <td>63</td>
             </tr>
             <tr>
                 <td><img src="https://logodetimes.com/times/flamengo/logo-flamengo-256.png" height="70px" /></td>
                 <td>Flamengo</td>
-                <td>42</td>
+                <td>60</td>
             </tr>
         </tr>
     </table>
@@ -74,17 +74,17 @@
             <tr>
                 <td><img src="https://logodetimes.com/times/palmeiras/logo-palmeiras-256.png" height="70px"></td>
                 <td>Palmeiras</td>
-                <td>19</td>
+                <td>27</td>
             </tr>
             <tr>
-                <td><img src="https://logodetimes.com/times/flamengo/logo-flamengo-256.png" height="70px" /></td>
-                <td>Flamengo</td>
-                <td>24</td>
+                <td><img src="https://logodetimes.com/times/internacional/logo-internacional-256.png" height="70px" /></td>
+                <td>Internacional</td>
+                <td>31</td>
             </tr>
             <tr>
-                <td><img src="https://logodetimes.com/times/santos/logo-santos-256.png" height="70px"/></td>
-                <td>Santos</td>
-                <td>25</td>
+                <td><img src="https://logodetimes.com/times/corinthians/logo-corinthians-256.png" height="70px"/></td>
+                <td>Corinthians</td>
+                <td>36</td>
             </tr>
         </tr>
     </table>
@@ -98,17 +98,17 @@
             <tr>
                 <td><img src="https://logodetimes.com/times/flamengo/logo-flamengo-256.png" height="70px" /></td>
                 <td>Flamengo</td>
-                <td>78</td>
-            </tr>
-            <tr>
-                <td><img src="https://logodetimes.com/times/internacional/logo-internacional-256.png" height="70px" /></td>
-                <td>Internacional</td>
-                <td>63</td>
+                <td>103</td>
             </tr>
             <tr>
                 <td><img src="https://logodetimes.com/times/palmeiras/logo-palmeiras-256.png" height="70px"></td>
                 <td>Palmeiras</td>
-                <td>55</td>
+                <td>89</td>
+            </tr>
+            <tr>
+                <td><img src="https://logodetimes.com/times/internacional/logo-internacional-256.png" height="70px" /></td>
+                <td>Internacional</td>
+                <td>86</td>
             </tr>
         </tr>
     </table>
@@ -120,17 +120,17 @@
             <tr>
                 <td><img src="https://logodetimes.com/times/flamengo/logo-flamengo-256.png" height="70px" /></td>
                 <td>Flamengo</td>
-                <td>48</td>
+                <td>62</td>
             </tr>
             <tr>
                 <td><img src="https://logodetimes.com/times/palmeiras/logo-palmeiras-256.png" height="70px"></td>
                 <td>Palmeiras</td>
-                <td>37</td>
+                <td>53</td>
             </tr>
             <tr>
                 <td><img src="https://logodetimes.com/times/atletico-mineiro/logo-atletico-mineiro-256.png" height="70px"/></td>
                 <td>Atlético MG</td>
-                <td>35</td>
+                <td>51</td>
             </tr>
         </tr>
     </table>
@@ -144,17 +144,17 @@
             <tr>
                 <td><img src="https://logodetimes.com/times/ceara/logo-ceara-256.png" height="70px" /></td>
                 <td>Ceará</td>
-                <td>86</td>
-            </tr>
-            <tr>
-                <td><img src="https://logodetimes.com/times/avai/logo-avai-256.png" height="70px"/></td>
-                <td>Avaí</td>
-                <td>85</td>
+                <td>125</td>
             </tr>
             <tr>
                 <td><img src="https://logodetimes.com/times/goias/logo-goias-esporte-clube-256.png" height="70px"/></td>
                 <td>Goiás</td>
-                <td>78</td>
+                <td>113</td>
+            </tr>
+            <tr>
+                <td><img src="https://logodetimes.com/times/juventude/logo-juventude-256.png" height="70px"/></td>
+                <td>Juventude</td>
+                <td>110</td>
             </tr>
         </tr>
     </table>
@@ -164,19 +164,19 @@
                <th colspan="3">CARTÕES VERMELHOS</th>
             </thead>
             <tr>
-                <td><img src="https://logodetimes.com/times/fluminense/logo-fluminense-256.png" height="70px"/></td>
-                <td>Fluminense</td>
-                <td>08</td>
+                <td><img src="https://logodetimes.com/times/coritiba/logo-coritiba-256.png" height="70px"/></td>
+                <td>Coritiba</td>
+                <td>11</td>
             </tr>
             <tr>
                 <td><img src="https://logodetimes.com/times/ceara/logo-ceara-256.png" height="70px"/></td>
                 <td>Ceará</td>
-                <td>08</td>
+                <td>10</td>
             </tr>
             <tr>
-                <td><img src="https://logodetimes.com/times/coritiba/logo-coritiba-256.png" height="70px"/></td>
-                <td>Coritiba</td>
-                <td>08</td>
+                <td><img src="https://logodetimes.com/times/fluminense/logo-fluminense-256.png" height="70px"/></td>
+                <td>Fluminense</td>
+                <td>09</td>
             </tr>
         </tr>
     </table>
@@ -190,17 +190,17 @@
             <tr>
                 <td><img src="https://logodetimes.com/times/fluminense/logo-fluminense-256.png" height="70px"/></td>
                 <td>Fluminense</td>
-                <td>60.0%</td>
+                <td>61.0%</td>
             </tr>
             <tr>
                 <td><img src="https://logodetimes.com/times/atletico-mineiro/logo-atletico-mineiro-256.png" height="70px"/></td>
                 <td>Atlético MG</td>
-                <td>59.4%</td>
+                <td>59.0%</td>
             </tr>
             <tr>
                 <td><img src="https://logodetimes.com/times/flamengo/logo-flamengo-256.png" height="70px" /></td>
                 <td>Flamengo</td>
-                <td>56.8%</td>
+                <td>57.6%</td>
             </tr>
         </tr>
     </table>
@@ -212,17 +212,17 @@
             <tr>
                 <td><img src="https://logodetimes.com/times/palmeiras/logo-palmeiras-256.png" height="70px"></td>
                 <td>Palmeiras</td>
-                <td>14</td>
+                <td>19</td>
             </tr>
             <tr>
                 <td><img src="https://logodetimes.com/times/internacional/logo-internacional-256.png" height="70px" /></td>
                 <td>Internacional</td>
-                <td>11</td>
+                <td>18</td>
             </tr>
             <tr>
-                <td><img src="https://logodetimes.com/times/corinthians/logo-corinthians-256.png" height="70px" /></td>
-                <td>Corinthians</td>
-                <td>10</td>
+                <td><img src="https://logodetimes.com/times/atletico-mineiro/logo-atletico-mineiro-256.png" height="70px" /></td>
+                <td>Atlético MG</td>
+                <td>16</td>
             </tr>
         </tr>
     </table>
